@@ -35,15 +35,6 @@ typedef struct s_stack
 	t_node	*bottom; 
 }	t_stack;
 
-typedef struct s_cost
-{
-	int	ra;
-	int	rb;
-	int	rra;
-	int	rrb;
-	int	total;
-}	t_cost;
-
 //operations
 void	sa(t_stack *a);
 void	sb(t_stack *b);
