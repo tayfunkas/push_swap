@@ -27,7 +27,16 @@ The sorting algorithm implemented in this project prioritizes clarity and ease o
 
 ## Usage
 
-```bash
-./push_swap 4 67 3 87 23
+To run the push_swap program:
+
+    ./push_swap 4 67 3 87 23
+
+This will output a series of instructions to sort the given numbers.
 
 https://github.com/user-attachments/assets/c2070f2f-eda2-40c0-afe3-258bdf06a85a
+
+
+
+
+
+
